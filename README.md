@@ -8,7 +8,7 @@ As the result you will build and deploy a similar [Streamlit app](https://herhac
 📅 Tuesday, October, 15, 2024  
 🕘17:30–19:30 CET   
 📍Online via Zoom  
-🎯Who: participants with no or basic knowledge of Python and already have a GitHub account+ Python IDE installed (VSCode or PyCharm).  
+🎯Who: participants with no or basic knowledge of Python and already have a GitHub account + Google Colab account.  
 📊 Slides: can be found [here](slides/HerHack20.24%20-%20Prototyping%20an%20LLM-Powered%20App.pdf)  
 🎥 Recording of this workshop with step-by-step instructions is [here](https://drive.google.com/drive/folders/1NqHAuTIQxZ15qqkFqq_9cUaH53-eu2Fk?usp=sharing)
 
