@@ -5,7 +5,7 @@ In this hands-on workshop you will learn how to create and deploy your very own 
 As the result you will build and deploy a similar [Streamlit app](https://herhack2024llm.streamlit.app/)  which allows users to upload text articles and ask questions about the content of these articles. It uses OpenAI's GPT model to generate answers, providing an interactive way to explore information within documents.
 
 
-📅 Tuesday, October, 15  
+📅 Tuesday, October, 15, 2024  
 🕘17:30–19:30 CET   
 📍Online via Zoom  
 🎯Who: participants with no or basic knowledge of Python and already have a GitHub account+ Python IDE installed (VSCode or PyCharm).  
